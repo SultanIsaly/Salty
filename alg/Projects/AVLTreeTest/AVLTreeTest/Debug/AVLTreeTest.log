@@ -1,0 +1,11 @@
+﻿  AVLTreeTest.cpp
+c:\users\султан\documents\visual studio 2015\projects\avltreetest\avltreetest\avltreetest.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\султан\documents\visual studio 2015\projects\avltreetest\avltreetest\avltreetest.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\султан\documents\visual studio 2015\projects\avltreetest\avltreetest\avltreetest.cpp(111): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\султан\documents\visual studio 2015\projects\avltreetest\avltreetest\avltreetest.cpp(116): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\султан\documents\visual studio 2015\projects\avltreetest\avltreetest\avltreetest.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\султан\documents\visual studio 2015\projects\avltreetest\avltreetest\avltreetest.cpp(120): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\султан\documents\visual studio 2015\projects\avltreetest\avltreetest\avltreetest.cpp(128): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\султан\documents\visual studio 2015\projects\avltreetest\avltreetest\avltreetest.cpp(150): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\султан\documents\visual studio 2015\projects\avltreetest\avltreetest\avltreetest.cpp(156): warning C4018: <: несоответствие типов со знаком и без знака
+  AVLTreeTest.vcxproj -> C:\Users\Султан\documents\visual studio 2015\Projects\AVLTreeTest\Debug\AVLTreeTest.exe
