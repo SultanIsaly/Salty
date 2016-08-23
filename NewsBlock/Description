@@ -1,4 +1,3 @@
 NewsBlocker - это кроссбраузерный userscript, блокирующий сайты новостей.
 Для запуска в google chrome необходимо установить tampermonkey 
-({{https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru}})
- <a href="http://seosko.ru"> анкорный текст </a> 
+([https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru|tampermonkey])
