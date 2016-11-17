@@ -1,0 +1,9 @@
+NewsBlocker - это кроссбраузерный userscript, блокирующий сайты новостей.
+Для запуска в google chrome необходимо установить tampermonkey 
+(https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru)
+а в mozilla greasemonkey (https://addons.mozilla.org/ru/firefox/addon/greasemonkey/).
+Если пользуютесь greasemonkey, достаточно перенести файл в браузер и он будет установлен,
+в tampermonkey надо зайти в добавить новые скрипты, скопировать код в редактор и запустить.
+Скрипт работает на англоязычных и русскоязычных новостных сайтах.
+Производится разбор html документа, в нем извлекаются content из тегов мета. И проверяется 
+наличие слов news и т. п.. 

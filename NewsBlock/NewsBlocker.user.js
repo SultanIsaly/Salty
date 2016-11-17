@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name NewsBlock
+// @name NewsBlocker
 // @author Isaly Sultan
 // @version 1.0
 // @description example
